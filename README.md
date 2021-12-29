@@ -42,7 +42,6 @@ DevHub is a **mobile and desktop** app to help you **manage GitHub Notifications
 - Android: [Play Store](https://play.google.com/store/apps/details?id=com.devhubapp&utm_source=github_repo_link)
 - iOS: [App Store](https://itunes.apple.com/us/app/devhub-for-github/id1191864199?l=en&mt=8&utm_source=github_repo_link)
 - Desktop:
-  - [GitHub Releases](https://github.com/devhubapp/devhub/releases) (macOS, Windows, Linux)
   - Homebrew (macOS alternative):
     ```
       brew tap devhubapp/devhub
@@ -96,7 +95,6 @@ DevHub is a **mobile and desktop** app to help you **manage GitHub Notifications
 
 DevHub plans to be a sustainable open source project. It's not made by a huge company like Facebook, it is made by a single developer that could be making $200k+ on Facebook, but instead makes $0 working on this full time. If you want the project to live and be actively maintained, understand that it will need a revenue and consider donating or subscribing to the paid plan once it launches.
 
-> [Join the discussion](https://github.com/devhubapp/devhub/issues/106)!
 -->
 
 <br/>
